@@ -1,3 +1,3 @@
 import math
-n=math.factorial(10)
+n=math.factorial(11)
 print(n)
